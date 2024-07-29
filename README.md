@@ -6,4 +6,4 @@ Users are authenticated against a database using a custom `UserDetailsService` a
 
 When a successful login occurs, a JWT is generated and sent back to the user, the user can use this JWT in the header as a bearer token to access authenticated routes according to their roles
 
-[Follow the youtube tutorial here]()
+[Follow the youtube tutorial here]()# auth-unknown-coder
